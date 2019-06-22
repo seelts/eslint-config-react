@@ -1,5 +1,5 @@
 {
-  "name": "@filtu/eslint-react-config",
+  "name": "@filtu/eslint-config-react",
   "version": "1.0.0",
   "description": "ESLint React configuration",
   "author": "Ilia Liachin <seelts@gmail.com>",
