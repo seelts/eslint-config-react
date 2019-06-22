@@ -1,0 +1,20 @@
+{
+  "name": "@filtu/eslint-react-config",
+  "version": "1.0.0",
+  "description": "ESLint React configuration",
+  "author": "Ilia Liachin <seelts@gmail.com>",
+  "license": "Unlicense",
+  "private": false,
+  "main": "src/",
+  "files": [],
+  "devDependencies": {
+    "@filtu/prettier-config": "^1.0.1",
+    "prettier": "^1.18.2"
+  },
+  "dependencies": {
+    "@filtu/eslint-config": "^1.0.0",
+    "eslint-plugin-jsx-a11y": "^6.2.1",
+    "eslint-plugin-react": "^7.13.0"
+  },
+  "prettier": "@filtu/prettier-config"
+}
