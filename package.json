@@ -13,7 +13,7 @@
   },
   "dependencies": {
     "@filtu/eslint-config": "^1.0.0",
-    "eslint-plugin-jsx-a11y": "^6.2.1",
+    "eslint-plugin-jsx-a11y": "^6.5.1",
     "eslint-plugin-react": "^7.13.0"
   },
   "prettier": "@filtu/prettier-config"
